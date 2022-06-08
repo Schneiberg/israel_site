@@ -105,7 +105,10 @@ enableEmoji = true
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/israelschneiberg/"
-
+  [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fa"
+      url       = "mailto:israelschneiberg@gmail.com"
 
 [taxonomies]
   category = "categories"
