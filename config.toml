@@ -110,9 +110,9 @@ enableEmoji = true
       icon_pack = "fa"
       url       = "mailto:israelschneiberg@gmail.com"
   [[params.social]]
-      icon      = "CV" # icon name without the 'fa-'
+      icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://drive.google.com/file/d/1MzfM5h9RQcRg-WBWtIWBrCva2QliBKLf/view?usp=sharing"
+      url       = "https://drive.google.com/file/d/1lVLe9aR2bJYHUtrzyhXBE-9EElQtu-Nb/view?usp=sharing"
 
 [taxonomies]
   category = "categories"
